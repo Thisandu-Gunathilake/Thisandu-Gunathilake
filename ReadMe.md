@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer exploring modern technologies
+Software engineer, exploring modern technologies
 
 
 ## 🌐 Socials:
